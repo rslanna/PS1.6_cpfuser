@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cpfuser</name>
+	<displayName><![CDATA[CPF Usu&aacute;rio]]></displayName>
+	<version><![CDATA[1.6]]></version>
+	<description><![CDATA[Adicionar o campo CPF / CNPJ no cadastro do cliente]]></description>
+	<author><![CDATA[Line Host - www.linehost.com.br]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
